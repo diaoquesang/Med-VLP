@@ -24,6 +24,10 @@
 
 <img width="1496" height="686" alt="image" src="https://github.com/user-attachments/assets/4437a5f6-80bc-4062-9381-28be7cc3bcc5" />
 
+### [ICLR 2024 DFN] [Data Filtering Networks](https://arxiv.org/abs/2309.17425)
+
+<img width="1464" height="385" alt="image" src="https://github.com/user-attachments/assets/87061b16-ef5e-4892-bf65-f1dc23db4ad2" />
+
 ### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
 
 <img width="1112" height="985" alt="image" src="https://github.com/user-attachments/assets/4cbe7c8e-7108-417f-be11-a57095d6c1d2" />
