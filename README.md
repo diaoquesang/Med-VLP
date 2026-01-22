@@ -8,6 +8,10 @@
 
 <img width="2146" height="893" alt="image" src="https://github.com/user-attachments/assets/e92fc19b-c97a-409b-b4f4-11842e9c5128" />
 
+### [arXiv 2023 EVA-CLIP] [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/abs/2303.15389)
+
+<img width="891" height="656" alt="image" src="https://github.com/user-attachments/assets/6389d2c2-9b0e-4866-8846-3fcdd5eddd6a" />
+
 ### [CVPR 2023 OpenCLIP] [Reproducible Scaling Laws for Contrastive Language-Image Learning](https://arxiv.org/abs/2212.07143)
 
 <img width="1075" height="258" alt="image" src="https://github.com/user-attachments/assets/2837b9e0-9479-4586-8c4c-d7e6f65f2e42" />
@@ -19,3 +23,8 @@
 ### [ICML 2023 BLIP-2] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://proceedings.mlr.press/v202/li23q)
 
 <img width="1496" height="686" alt="image" src="https://github.com/user-attachments/assets/4437a5f6-80bc-4062-9381-28be7cc3bcc5" />
+
+### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
+
+<img width="1112" height="985" alt="image" src="https://github.com/user-attachments/assets/4cbe7c8e-7108-417f-be11-a57095d6c1d2" />
+
