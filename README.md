@@ -20,6 +20,10 @@
 
 ## 🧑🏻‍⚕️ Medical-Specific Methods
 
+### [NeurIPS 2022 MGCA] [https://arxiv.org/abs/2210.06044](https://arxiv.org/abs/2210.06044)
+
+### [MICCAI 2022 M3AE] [Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training](https://arxiv.org/abs/2209.07098)
+
 ### [EMNLP 2022 MedCLIP] [MedCLIP: Contrastive Learning from Unpaired Medical Images and Text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11323634/)
 
 ### [arXiv 2023 BiomedCLIP] [BiomedCLIP: A Multimodal Biomedical Foundation Model Pretrained from Fifteen Million Scientific Image-Text Pairs](https://arxiv.org/abs/2303.00915)
