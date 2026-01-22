@@ -4,6 +4,10 @@
 
 <img width="1905" height="734" alt="image" src="https://github.com/user-attachments/assets/73ec61c3-af33-4e43-8fd5-48dcc5fcc494" />
 
+### [ICML 2022 - BLIP] [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n.html)
+
+<img width="2146" height="893" alt="image" src="https://github.com/user-attachments/assets/e92fc19b-c97a-409b-b4f4-11842e9c5128" />
+
 ### [CVPR 2023 OpenCLIP] [Reproducible Scaling Laws for Contrastive Language-Image Learning](https://arxiv.org/abs/2212.07143)
 
 <img width="1075" height="258" alt="image" src="https://github.com/user-attachments/assets/2837b9e0-9479-4586-8c4c-d7e6f65f2e42" />
